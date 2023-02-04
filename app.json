@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "create-expo-next-firebase-wind-app",
-    "slug": "create-expo-next-firebase-wind-app",
+    "name": "create-expo-wind-app",
+    "slug": "create-expo-wind-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
